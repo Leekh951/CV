@@ -1,3 +1,3 @@
 # CV
 Pre version
-[View my CV](CV.pdf)
+[View my CV](CV_ghlee.pdf)
